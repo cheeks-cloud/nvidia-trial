@@ -1,0 +1,46 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.navbar{
+  
+}
+.middle{
+  background-image: url("https://www.nvidia.com/content/dam/en-zz/Solutions/homepage/mfg/gtc22-spring-web-nv-com-blade-2560x200-d@2x.jpg");
+  margin-top: 20px;
+  display: flex;
+}
+.middle img{
+  margin-left: 60px;
+}
+.carousel-slide{
+  color: white;
+}
+.duke{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap; 
+  justify-content: center;
+  padding: 20px;
+}
+.container-fluid{
+  margin-top: 20px;
+  background-color: whitesmoke;
+}
+ h5{
+   font-size: small;
+   color: greenyellow;
+}
+.container-fluid h3{
+  color: rgb(93, 253, 93);
+  text-align: center;
+  padding: 10px;
+}
+/* card{
+  height: 20px;
+} */
+
+/* .row{
+  margin-top: 60px;
+} */
